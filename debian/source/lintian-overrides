@@ -1,0 +1,5 @@
+python-zope.interface source: file-without-copyright-information
+python-zope.interface source: no-debian-changes
+python-zope.interface source: source-contains-prebuilt-windows-binary
+python-zope.interface source: source-is-missing
+python-zope.interface source: source-package-encodes-python-version
