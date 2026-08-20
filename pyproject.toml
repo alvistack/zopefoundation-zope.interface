@@ -14,7 +14,7 @@ description = "Interfaces for Python"
 keywords = ["interface", "components", "plugins"]
 dynamic = ["readme"]
 requires-python = ">=3.10"
-license = "ZPL-2.1"
+license = { text = "ZPL-2.1" }
 authors = [
   { name = "Zope Foundation and contributors", email = "zope-dev@zope.dev" },
 ]
